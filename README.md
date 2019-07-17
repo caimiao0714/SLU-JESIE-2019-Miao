@@ -13,7 +13,7 @@ Wednesday, July 17, 2019  - Welcome to SLU!
 5.	Discuss expectations, classroom norms, etc.
 7.	[Great places in St. Louis](https://www.youtube.com/watch?v=B5j4QyejvRA).
 8.	[An introduction to Saint Louis](https://www.youtube.com/watch?v=Xh36UzEEnSg) by SLU.
-9.	Your trip to the St. Louis Zoo on Saturday, watch [this YouTube video](https://www.youtube.com/watch?v=Xh36UzEEnSg) and discuss what you will see at the zoo.
+9.	Your trip to the St. Louis Zoo on Saturday, watch [this YouTube video](https://www.youtube.com/watch?v=DsJTjsGHaAs) and discuss what you will see at the zoo.
 6.	Q & A.
 
 For tomorrow's class, please bring **4 items** that specifically represent **YOU**. It can be an object, a picture, a photo, a word, a concept, or anything else!
