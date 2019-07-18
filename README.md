@@ -25,7 +25,8 @@ Thursday, July 18, 2019 - Who am I?
 
 1. Present your objects: why do they represent you?
 
-2. Authentic Chinese food:
+- Food
+1. Authentic Chinese food:
  + [Cate zone](https://www.yelp.com/biz/cate-zone-chinese-cafe-university-city), 11 a.m. - 2.30 p.m., 5 p.m.-8.30 p.m. NOT open on Mondays. Super good and a lot of people eating their. Be their early!
 3. Authentic and American Chinese food:
   + [Wei Hong Bakery and Restaurant](http://www.weihongrestaurant.com/en/WeiHongBakery/home): NOT open on Tuesdays. Hongkong style food (a little bit Americanized).
@@ -46,6 +47,10 @@ Thursday, July 18, 2019 - Who am I?
   + [El Burro Loco](https://www.google.com/maps/place/El+Burro+Loco/@38.6451398,-90.2614475,3a,89.7y,90t/data=!3m8!1e2!3m6!1sAF1QipNnCMCo8ktqdbyKZx0O_4QzlmBQkAZnDaLDNI2e!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNnCMCo8ktqdbyKZx0O_4QzlmBQkAZnDaLDNI2e%3Dw153-h86-k-no!7i1080!8i607!4m5!3m4!1s0x87d8b4d62df008bd:0x9ba7efee52f46d9d!8m2!3d38.6451584!4d-90.2616416): super authentic Mexican food.
 8. Italian food
   + [Maggiano's Little Italy](https://www.maggianos.com/)
+
+- One more thing: ice cream
+  + [Ted Drews](http://teddrewes.com/): ["best ice cream shop in the world"](https://www.usatoday.com/story/news/nation-now/2017/02/14/st-louis-home-ted-drewes-worlds-best-ice-cream-shop/97888922/).
+  + [Snow Factory Roll Ice Cream](https://www.snowfactorystl.com/thai-ice-cream): rolled ice cream. Here is a [video](https://www.snowfactorystl.com/video) showing you how the ice cream is made.
 
 
 Friday, July 19, 2019 - What is public health?
