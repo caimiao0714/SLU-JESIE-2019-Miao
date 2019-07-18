@@ -56,6 +56,17 @@ Thursday, July 18, 2019 - Who am I?
 Friday, July 19, 2019 - What is public health?
 ---
 
+1. [What is public health?](https://www.youtube.com/watch?v=jA8uYvJ_i8Y),
+2. Split into small groups (2-4), ideally 3 per groups,
+3. *Small group discussion*: Each group comes up with your own definition of public health, share it to the class,
+4. [Careers in global health](https://www.youtube.com/watch?v=LHxh1hMRqeY). Discuss what can you learn from this video,
+5. [Roles in global health](https://www.youtube.com/watch?v=WILJa5ZooPs). Discuss what can you learn from this video,
+6. *Small group discussion*: share one area of interest/roles of your group members,
+7. Discuss a topic for final group project.
+8. Talk about animals you will see at the zoo.
+
+Have fun at St. Louis Zoo!
+
 ***
 
 Week 2
