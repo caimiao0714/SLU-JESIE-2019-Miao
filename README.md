@@ -56,7 +56,7 @@ Thursday, July 18, 2019 - Who am I?
 Friday, July 19, 2019 - What is public health?
 ---
 
-1. [What is public health?](https://www.youtube.com/watch?v=jA8uYvJ_i8Y),
+1. [What is public health?](https://www.youtube.com/watch?v=jA8uYvJ_i8Y)
 2. Split into small groups (2-4), ideally 3 per groups,
 3. *Small group discussion*: Each group comes up with your own definition of public health, share it to the class,
 4. [Careers in global health](https://www.youtube.com/watch?v=LHxh1hMRqeY). Discuss what can you learn from this video,
