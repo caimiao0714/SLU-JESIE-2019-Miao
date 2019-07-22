@@ -24,7 +24,6 @@ Thursday, July 18, 2019 - Who am I?
 ---
 
 1. Present your objects: why do they represent you?
-
 - Food
 1. Authentic Chinese food:
  + [Cate zone](https://www.yelp.com/biz/cate-zone-chinese-cafe-university-city), 11 a.m. - 2.30 p.m., 5 p.m.-8.30 p.m. NOT open on Mondays. Super good and a lot of people eating their. Be their early!
@@ -64,6 +63,8 @@ Friday, July 19, 2019 - What is public health?
 6. *Small group discussion*: share one area of interest/roles of your group members,
 7. Discuss a topic for final group project.
 8. Talk about animals you will see at the zoo.
+
+[The BMJ - China's health system reforms: review of 10 years of progress](https://www.bmj.com/china-health-reform)
 
 Have fun at St. Louis Zoo!
 
