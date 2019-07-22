@@ -77,29 +77,42 @@ Monday, July 22, 2019 - How is public health information communicated? (a)
 1. St. Louis Zoo & Gateway Arch
 2. How public health information is communicated in the news?
 3. For each of the news clips, try to answer the following questions:
-  a. Do they include facts?
-  b.	Do they include professionals?
-  c.	What is the goal of the clip?
-  d.	Did they do a good job?
-  e.	What could be improved?
+  + Do they include facts?
+  +	Do they include professionals?
+  +	What is the goal of the clip?
+  +	Did they do a good job?
+  + What could be improved?
 4. News clips for Zika:
-  a. [Zika Channel 4 News](https://www.youtube.com/watch?v=id18DI8NsfA)
-  b. [BBC News](https://www.youtube.com/watch?v=I0EPA0sCUzg)
-  c. [DW News](https://www.youtube.com/watch?v=j7ysVVI7plQ)
-  d. [NBC News](https://www.youtube.com/watch?v=oakplNJe6Bg)
-  e. [CNN News](https://www.youtube.com/watch?v=ZbKtSp05QEU)
+  + [Zika Channel 4 News](https://www.youtube.com/watch?v=id18DI8NsfA)
+  + [BBC News](https://www.youtube.com/watch?v=I0EPA0sCUzg)
+  + [DW News](https://www.youtube.com/watch?v=j7ysVVI7plQ)
+  + [NBC News](https://www.youtube.com/watch?v=oakplNJe6Bg)
+  + [CNN News](https://www.youtube.com/watch?v=ZbKtSp05QEU)
 5. Zika in the newspaper. For each newspaper clip, answer the following questions:
-  a.	What is the goal of the article?
-  b.	Do they cite sources?
-  c.	Do they give clear information?
-  d.	What did you think they did well/what could they improve?
+  +	What is the goal of the article?
+  +	Do they cite sources?
+  +	Do they give clear information?
+  +	What did you think they did well/what could they improve?
+
 6. Discuss group topics.
 
 Tuesday, July 23, 2019 - How is public health information communicated? (b)
 ---
 
+1. Public Health Information Activity
+  +	Each group picks a public health topic
+  + find out three sources of information about this public health topic. You need one *short news clip*, *one news article*, and *one website*
+2. Present the following to the class
+  +	What three sources do you find?
+  +	Was the information across the three sources consistent?
+  +	What do you think was reported well?
+  +	Was there anything that was not reported well?
+3. If time permits, work in groups to determine your topics for the final project.
+
+
 Wednesday, July 24, 2019 - Baseball
 ---
+1. [Baseball bloopers video](https://m.youtube.com/watch?v=AUOCoU8riJU)
 
 Thursday, July 25, 2019 - Public Service Announcement (PSA)
 ---
