@@ -114,11 +114,13 @@ Wednesday, July 24, 2019 - Baseball
 ---
 1. [Baseball bloopers video](https://m.youtube.com/watch?v=AUOCoU8riJU)
 
-Thursday, July 25, 2019 - Public Service Announcement (PSA)
+Thursday, July 25, 2019 - Public Service Announcement (PSA) (a)
 ---
+Introduction to PSA.
 
-Friday, July 26, 2019 - PSA (b)
+Friday, July 26, 2019 - Public Service Announcement (PSA) (b)
 ---
+Work in groups on storyboards
 
 ***
 
@@ -126,20 +128,22 @@ Week 3
 ===
 Monday, July 29, 2019 - PSA Story boards (a)
 ---
-
+Continue to work on storyboards
 
 Tuesday, July 30, 2019 - PSA Story boards (b)
 ---
+**Presentation** on storyboards
 
 Wednesday, July 31, 2019 - Conducting research (a)
 ---
 
 Thursday, August 1, 2019 - Conducting research (b)
 ---
+TA research presentation: Anne, Saad
 
 Friday, August 2, 2019 - Conducting research (c)
 ---
-
+TA research presentation: Jacob, Miao, Torie
 
 ***
 
@@ -157,6 +161,7 @@ Wednesday, August 7, 2019 - Work on group projects (c)
 
 Thursday, August 8, 2019 - Group presentations
 ---
+**Presentation**: Group presentation on research to all three classes.
 
 Friday, August 9, 2019 - Closing lunch (c)
 ---
