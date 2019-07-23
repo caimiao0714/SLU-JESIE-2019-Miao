@@ -151,7 +151,7 @@ Week 4
 ===
 Monday, August 5, 2019 - Work on group projects (a)
 ---
-
+[冷吃杏鲍菇](https://www.youtube.com/watch?v=dNzX_WaGm1k)?
 
 Tuesday, August 6, 2019 - Work on group projects (b)
 ---
