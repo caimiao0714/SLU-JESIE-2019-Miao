@@ -116,11 +116,11 @@ Wednesday, July 24, 2019 - Baseball
 
 Thursday, July 25, 2019 - Public Service Announcement (PSA) (a)
 ---
-Introduction to PSA.
+(9 more students from Jacob's class) Introduction to PSA.
 
 Friday, July 26, 2019 - Public Service Announcement (PSA) (b)
 ---
-Work in groups on storyboards
+(9 more students from Jacob's class) Work in groups on storyboards
 
 ***
 
