@@ -112,6 +112,7 @@ Tuesday, July 23, 2019 - How is public health information communicated? (b)
 
 Wednesday, July 24, 2019 - Baseball
 ---
+All three classes will unit at Beracha Hall, Room 221.
 1. [Baseball bloopers video](https://m.youtube.com/watch?v=AUOCoU8riJU)
 
 Thursday, July 25, 2019 - Public Service Announcement (PSA) (a)
