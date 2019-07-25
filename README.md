@@ -171,7 +171,8 @@ Continue to work on storyboards
 
 Tuesday, July 30, 2019 - PSA Story boards (b)
 ---
-**Presentation** on storyboards
+
+<span style="color:red">Presentation on storyboards</span>.
 
 Wednesday, July 31, 2019 - Conducting research (a)
 ---
@@ -200,7 +201,8 @@ Wednesday, August 7, 2019 - Work on group projects (c)
 
 Thursday, August 8, 2019 - Group presentations
 ---
-**Presentation**: Group presentation on research to all three classes.
+<span style="color:red">Group presentation on research to all three classes.</span>.
+
 
 Friday, August 9, 2019 - Closing lunch (c)
 ---
