@@ -114,19 +114,55 @@ Wednesday, July 24, 2019 - Baseball
 ---
 All three classes will unite at Beracha Hall, **Room 221**. Jacob will make short introduction to baseball, and then we will play baseball on the field.
 
-[**Baseball pictures**](/baseball_pics/)
+Find our **baseball pictures** at [**here**](/baseball_pics/).
 
 
 Thursday, July 25, 2019 - Public Service Announcement (PSA) (a)
 ---
-(9 more students from Jacob's class) Introduction to PSA.
+(9 more students from Jacob's class)
+
+1. Introduction to Public Service Announcement (PSA).
+2. Present several PSA videos. As you watch the videos, think about the following questions:
+
+    a.	Who is the intended audience?  
+    b.	What is the message?  
+    c.	Do you think it is an effective way to communicate?  
+    d.	Is there a way to measure the impact of the PSA?  
+
+3. PSA videos.
+  - [Glee Distracted Driving PSA](https://www.youtube.com/watch?v=mnw_7xI5klM)
+  - [Anti-Smoking PSA Philippines](https://www.youtube.com/watch?v=7QwnSmBK7Bc)
+  - [H1N1 and You: A Public Safety Announcement](https://www.youtube.com/watch?v=eQBV29kgXG0)
+  - [Active bystander (UN Women Asia and the Pacific), ending violence against women](https://www.youtube.com/watch?v=yT9xtrLLPFc)
+  - [Domestic violence](https://www.youtube.com/watch?v=5Z_zWIVRIWk)
+  - [No Kid Hungry](https://www.youtube.com/watch?v=2RUYkzJio24)
+  - [Cyberbullying](https://www.youtube.com/watch?v=qvf_ceyQDSE)
+  - [Healthy timing of pregnancy](https://www.youtube.com/watch?v=Wvm2OzNA24A)
+  - [Human trafficking](https://www.youtube.com/watch?v=A-UX_EwQcy8)
+  - [Unhealthy eating](https://www.youtube.com/watch?v=X0U32D9KzjY)
+  - [Prom drunk driving](https://www.youtube.com/watch?v=LigPLJP6x3U)
+
+4. Each group will be selecting a topic (preferably connected with health and the environment) that you believe should be a PSA.
+5.	Then each group will create a storyboard for a PSA.  **Storyboards** are a tool that are used to show, scene by scene, what their story/commercial will be.  They are similar to a comic strip.  Each group will be given a piece of **poster board** and markers to create their final product to present to the class.
+
+
+
+
 
 Friday, July 26, 2019 - Public Service Announcement (PSA) (b)
 ---
-(9 more students from Jacob's class) Work in groups on storyboards
+(9 more students from Jacob's class)
+
+Work in groups on storyboards. As your group work on storyboard, please consider the following questions:
+  1.	Who is the audience for your PSA?  
+  2.	Based on your audience and risk, what tactic do you think would be most effective?  For example, fear-based, emotional, factual, etc.
+  3.	Based on your specific risk, what action do you hope to inspire people to take?
+  4.	What is your take-home message?
+  5.	Which media do you think would be most appropriate to get your message out?  For example, you could use billboards, radio, texts, TV, brochures/other print media, etc.
+
+
 
 ***
-
 Week 3
 ===
 Monday, July 29, 2019 - PSA Story boards (a)
