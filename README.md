@@ -114,6 +114,8 @@ Wednesday, July 24, 2019 - Baseball
 ---
 All three classes will unite at Beracha Hall, **Room 221**. Jacob will make short introduction to baseball, and then we will play baseball on the field.
 
+[**Baseball pictures**](/baseball_pics/)
+
 
 Thursday, July 25, 2019 - Public Service Announcement (PSA) (a)
 ---
