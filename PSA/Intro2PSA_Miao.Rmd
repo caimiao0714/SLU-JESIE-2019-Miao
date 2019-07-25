@@ -1,0 +1,159 @@
+---
+title: "An introduction to Public Service Announcement (PSA)"
+subtitle: 
+author: Miao Cai
+institute: |
+  | Department of Epidemiology & Biostatistics, 
+  | Saint Louis University
+date: "`r Sys.Date()`"
+output:
+  beamer_presentation:
+    theme: "boxes"
+    colortheme: "whale"
+    fonttheme: "structurebold"
+    toc: false
+    slide_level: 2
+header-includes:
+  - \usepackage{soulutf8}
+  - \usepackage{color}
+  - \usepackage{float}
+  - \usepackage{booktabs}
+  - \usepackage{lscape}
+  - \usepackage{setspace}
+  - \usepackage{dcolumn}
+  - \setbeamertemplate{page number in head/foot}[]{}
+link-citations: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
+
+Public Service Announcement
+===
+
+Definition of PSA
+---
+> Public Service Announcement (PSA) is a message in the public interest disseminated **without charge**, with the objective of **raising awareness of**, and **changing public attitudes and behavior** towards, **a social issue**.  
+  
+&nbsp;
+
+> \hfill -- [Wikipedia](https://en.wikipedia.org/wiki/Public_service_announcement)
+
+
+A less textbook-alike definition
+---
+
+- A free "commercial"/advertisement
+
+- To change public attitudes
+
+- On a social issue
+
+
+How to implement a PSA
+===
+
+Goal
+---
+
+- Start with a **goal**: what do you want to accomplish?
+
+- You goal should not just focus on a specific action. PSA should **motivate** the target audience to **take action**.
+
+- Examples:
+  a. To stop smoking
+  b. To avoid using drugs
+  c. To stop drunk driving
+  d. To classify trash
+
+
+Target audience
+---
+
+Characteristics of the audience:
+
+1. Age
+2. Gender
+3. Occupation
+4. ...
+
+Your PSA should contain information relevant to the characteristics of your target audience.
+
+
+Language
+---
+
+> Our quality merchandise and competitive prices ...
+
+
+Language
+---
+
+> ~~Our quality merchandise and competitive prices ...~~
+
+
+- Don't use this language style in your PSA!
+
+- Use everyday language:
+  a. ~~Fake news!~~
+  b. Make America great again!
+  c. Yes we can!
+  
+  
+Emotion
+---
+
+- Emotions sell, facts do not. (Humans are not rational).
+
+- Do not use an overwhelming amount of facts.
+
+- Examples:
+  + Tonight, many of children in Nigeria children will to bed hungery. Unless you help!
+  + what happens here stays here!
+  + A diamond is forever
+
+Deliver ONE core message
+---
+
+- Core message: ONE thing you want the audience to hear.
+
+- The most common PSA mistake: trying to get the audience to take more than one action.
+
+- Stick with one message and deliver it with clarity.
+
+
+What is a good PSA?
+===
+
+A good PSA...
+---
+
+1. Attracts the attention of your audience
+
+2. Speaks in your audience's own language
+
+3. Relate to your audience's own lives
+
+4. Deliver a single core message
+
+5. Clarity
+
+6. Motivate the audience to act
+
+
+It's your time!
+---
+Figure out a topic and develop your own PSA
+
+
+Storyboard
+===
+
+---
+
+![An example storyboard for PSA](toymation-storyboard.jpg)

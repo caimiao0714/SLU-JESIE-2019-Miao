@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Public Service Announcement}{2}{0}{1}
+\beamer@sectionintoc {2}{How to implement a PSA}{5}{0}{2}
+\beamer@sectionintoc {3}{What is a good PSA?}{12}{0}{3}
+\beamer@sectionintoc {4}{Storyboard}{15}{0}{4}
