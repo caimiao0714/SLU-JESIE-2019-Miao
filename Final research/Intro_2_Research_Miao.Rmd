@@ -1,0 +1,148 @@
+---
+title: "An Introduction to Research"
+subtitle: 
+author: Miao Cai
+institute: |
+  | Department of Epidemiology & Biostatistics, 
+  | Saint Louis University
+date: "`r Sys.Date()`"
+output:
+  beamer_presentation:
+    theme: "boxes"
+    colortheme: "whale"
+    fonttheme: "structurebold"
+    toc: false
+    slide_level: 2
+header-includes:
+  - \usepackage{soulutf8}
+  - \usepackage{color}
+  - \usepackage{float}
+  - \usepackage{booktabs}
+  - \usepackage{lscape}
+  - \usepackage{setspace}
+  - \usepackage{dcolumn}
+  - \setbeamertemplate{page number in head/foot}[]{}
+link-citations: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Introduction
+===
+
+Research
+---
+
+> Careful and detailed study into a specific problem, concern, or issue using the scientific method
+
+Research process
+---
+
+- Identify the problem
+- Define the problem (~~too broad~~ or ~~too narrow~~)
+- A plan to answer the question
+- Collect data
+- Draw conclusion (potentially **RE**search)
+
+Quantitative and qualitative research
+---
+
+- Quantitative: data-driven (statistical models, machine learning, deep learning, ...)
+- Qualitative: social sciences (focus groups, interviews, ...)
+
+More on research types
+---
+::: columns
+:::: column
+### Quantitative research:
+
+- Count things
+- Large samples
+- Know what you want
+- Use statistics
+- Generalize
+- Be distant and **objective**
+::::
+
+:::: column
+### Qualitative research:
+
+- Contextualize
+- Small samples, in-depth
+- Discover what you want
+- Use words
+- Find "meaning"
+- Be involved and **subjective**
+::::
+:::
+
+
+
+
+Research question
+===
+
+What is a research question
+---
+
+> An answerable inquiry into a specific concern or issue.
+
+- **Specify** your question
+- Determine your goal (what do you want to know)
+- Is your question answerable within your lifetime?
+- Not too broad or too narrow
+
+
+Are they good research questions?
+---
+
+- What activities of nurse managers are associated with nurse turnover? 
+- What predicts registered nurse retention in the US Army?
+- Do the elderly diagnosed with dementia experience pain?
+- Is yoga as effective as traditional physical therapy in reducing lymphedema in patients who have had head and neck cancer treatment?
+
+<!--
+Hypothesis and variables
+---
+
+- Dependent variable (DV): it replies upon IV to occur,
+- Independent variable (IV): it can vary and influence the DV
+-->
+
+Final presentation
+===
+
+Presentation notes
+---
+
+- The presentations should be no more than 15 minutes.
+- Each student should have a speaking role in the presentation.
+- Think about what is the most relevant or interesting information for your classmates.   
+
+Rubric 1
+---
+
+| Presentation                                  | Points Possible | 
+|-----------------------------------------------|-----------------|
+| Introduction to topic                         | 15              | 
+| Current research/journal article              | 25              | 
+| Prevention strategies                         | 15              |
+| Public health issue in China                  | 20              |
+| Future steps related to research and practice | 15              |
+| Question and answer                           | 10              |
+| Total                                         | 100             |
+
+Rubric 2
+---
+
+| Presentation                                                    | Points Possible |
+|-----------------------------------------------------------------|-----------------|
+| Did the group appear prepared?                                  | 30              |
+| Did group members have good eye contact?                        | 15              |
+| Did group members connect with their audience?                  | 25              |
+| Was the presentation organized and presented in a clear manner? | 30              |
+| Total                                                           | 100             |
+
+
