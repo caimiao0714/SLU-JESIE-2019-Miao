@@ -172,11 +172,24 @@ Continue to work on storyboards
 Tuesday, July 30, 2019 - PSA Story boards (b)
 ---
 
-<span style="color:red">Presentation on storyboards</span>.
+- **Presentation on storyboards**.
+- Introduction to research. (If time permits)
 
 Wednesday, July 31, 2019 - Conducting research (a)
 ---
-Introduction to research.
+Try to come up with a public health research topic. Talk with your TA about if this is a good topic.
+
+Your presentation will include:
+
+  a.	What is the issue?
+  b.	What is the current research related to this issue?
+  c.	Choose one article and:
+    i.	What was their research question(s)?
+    ii.	Was the study an experimental or non-experimental design?
+    iii.	What were the independent and dependent variables (if applicable)?
+  d.	What are prevention strategies related to the issue?
+  e.	Is this a public health issue in China? Are there differences in different countries related to this issue?
+  f.	What are future steps related to research and practice?
 
 
 Thursday, August 1, 2019 - Conducting research (b)
@@ -203,8 +216,25 @@ Wednesday, August 7, 2019 - Work on group projects (c)
 
 Thursday, August 8, 2019 - Group presentations
 ---
-<span style="color:red">Group presentation on research to all three classes.</span>.
+**Group presentation** on research to all students from three classes.
 
+Presentation notes:
+
+- The presentations should be no more than 15 minutes.
+- Each student should have a speaking role in the presentation.
+- Think about what is the most relevant or interesting information for your classmates.   
+
+Presentation rubric:
+
+| Presentation                                  | Points Possible | 
+|-----------------------------------------------|-----------------|
+| Introduction to topic                         | 15              | 
+| Current research/journal article              | 25              | 
+| Prevention strategies                         | 15              |
+| Public health issue in China                  | 20              |
+| Future steps related to research and practice | 15              |
+| Question and answer                           | 10              |
+| Total                                         | 100             |
 
 Friday, August 9, 2019 - Closing lunch (c)
 ---
