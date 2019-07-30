@@ -177,20 +177,21 @@ Tuesday, July 30, 2019 - PSA Story boards (b)
 
 Wednesday, July 31, 2019 - Conducting research (a)
 ---
-Try to come up with a public health research topic. Talk with your TA about if this is a good topic.
 
-Your presentation will include:
+- Try to come up with a public health research topic. Talk with your TA about if this is a good topic.
+- Your presentation will include:  
 
-  a.	What is the issue?
-  b.	What is the current research related to this issue?
-  c.	Choose one article and:
-    i.	What was their research question(s)?
-    ii.	Was the study an experimental or non-experimental design?
-    iii.	What were the independent and dependent variables (if applicable)?
-  d.	What are prevention strategies related to the issue?
-  e.	Is this a public health issue in China? Are there differences in different countries related to this issue?
-  f.	What are future steps related to research and practice?
+  1.	What is the issue?
+  2.	What is the current research related to this issue?
+  3.	Choose one article and:  
+    i.	What was their research question(s)?  
+    ii.	Was the study an experimental or non-experimental design?  
+    iii.	What were the independent and dependent variables (if applicable)?  
+  4.	What are prevention strategies related to the issue?  
+  5.	Is this a public health issue in China? Are there differences in different countries related to this issue?
+  6.	What are future steps related to research and practice?
 
+- Preferably high prestigious journals to choose from: [NEJM](https://www.nejm.org/), [Lancet](https://www.thelancet.com/), [JAMA](https://jamanetwork.com/), [BMJ](https://www.bmj.com/), ...
 
 Thursday, August 1, 2019 - Conducting research (b)
 ---
@@ -235,6 +236,14 @@ Presentation rubric:
 | Future steps related to research and practice | 15              |
 | Question and answer                           | 10              |
 | Total                                         | 100             |
+
+| Presentation                                                    | Points Possible |
+|-----------------------------------------------------------------|-----------------|
+| Did the group appear prepared?                                  | 30              |
+| Did group members have good eye contact?                        | 15              |
+| Did group members connect with their audience?                  | 25              |
+| Was the presentation organized and presented in a clear manner? | 30              |
+| Total                                                           | 100             |
 
 Friday, August 9, 2019 - Closing lunch (c)
 ---
