@@ -176,6 +176,8 @@ Tuesday, July 30, 2019 - PSA Story boards (b)
 
 Wednesday, July 31, 2019 - Conducting research (a)
 ---
+Introduction to research.
+
 
 Thursday, August 1, 2019 - Conducting research (b)
 ---
