@@ -103,13 +103,79 @@ Are they good research questions?
 - Do the elderly diagnosed with dementia experience pain?
 - Is yoga as effective as traditional physical therapy in reducing lymphedema in patients who have had head and neck cancer treatment?
 
-<!--
+
 Hypothesis and variables
+===
+
+Variables
 ---
 
 - Dependent variable (DV): it replies upon IV to occur,
 - Independent variable (IV): it can vary and influence the DV
--->
+
+Hypothesis
+---
+
+> A hypothesis is a tentative statement that **proposes a possible explanation** to some phenomenon or event.
+
+Every study has a purpose, but not every study has a hypothesis.
+
+A solid hypothesis:
+
+- Makes predictions between variables (cause and effect),
+- Should address a part of the research question,
+- Well-grounded in existing literature.
+
+Typical hypotheses
+---
+
+1. A prediction,
+2. Describe the relationship between an IV and a DV.
+
+Research design
+---
+
+![Experimental and non-experimental research](./experiment_non_exp_research.png)
+
+Definitions of experimental and non-experimental design
+---
+
+- Experimental research: **manipulate** the predictor variable (IV) and subjects to identify a cause-and-effect relationship,
+
+- Non-experimental research: it lacks the manipulation of an independent variable, random assignment of participants to conditions or orders of conditions, or both.
+
+Sample abstracts
+===
+
+Questions to look for
+---
+
+- What is the research question?
+- What is the research aim?
+- Quantitative or qualitative research?
+- Experimental or non-experimental design?
+- If it is non-experimental design, what type of non-experimental?
+
+Abstract 1
+---
+![Level of hospital](./abs1.png)
+
+Abstract 2
+---
+![Medical consortium](./abs2.png)
+
+Abstract 3
+---
+![A NEJM paper](./abs3.png)
+
+[Paper link](https://www.nejm.org/doi/full/10.1056/NEJMoa1901713)
+
+Abstract 4
+---
+![](./abs4.png)
+
+
+
 
 Final presentation
 ===
@@ -135,28 +201,34 @@ Presentation notes
 - Each student should have a speaking role in the presentation.
 - Think about what is the most relevant or interesting information for your classmates.   
 
+
+
+<!-- Rmarkdown tables not working on Mac for now, need to update MacTex:
+https://github.com/rstudio/rmarkdown/issues/1505
+
 Rubric 1
 ---
 
-| Presentation                                  | Points Possible | 
-|-----------------------------------------------|-----------------|
-| Introduction to topic                         | 15              | 
-| Current research/journal article              | 25              | 
-| Prevention strategies                         | 15              |
-| Public health issue in China                  | 20              |
-| Future steps related to research and practice | 15              |
-| Question and answer                           | 10              |
-| Total                                         | 100             |
+| Presentation                                  | Points | 
+|-----------------------------------------------|--------|
+| Introduction to topic                         | 15     | 
+| Current research/journal article              | 25     | 
+| Prevention strategies                         | 15     |
+| Public health issue in China                  | 20     |
+| Future steps related to research and practice | 15     |
+| Question and answer                           | 10     |
+| Total                                         | 100    |
 
 Rubric 2
 ---
 
-| Presentation                                                    | Points Possible |
-|-----------------------------------------------------------------|-----------------|
-| Did the group appear prepared?                                  | 30              |
-| Did group members have good eye contact?                        | 15              |
-| Did group members connect with their audience?                  | 25              |
-| Was the presentation organized and presented in a clear manner? | 30              |
-| Total                                                           | 100             |
+| Presentation                                                    | Points |
+|-----------------------------------------------------------------|--------|
+| Did the group appear prepared?                                  | 30     |
+| Did group members have good eye contact?                        | 15     |
+| Did group members connect with their audience?                  | 25     |
+| Was the presentation organized and presented in a clear manner? | 30     |
+| Total                                                           | 100    |
 
+-->
 
