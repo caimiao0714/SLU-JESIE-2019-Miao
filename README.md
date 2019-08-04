@@ -1,12 +1,38 @@
 SLU-JESIE 2019 Global Health Summer Program (Group 2)
 ===
 ***
+Table of contents
+===
+<!--ts-->
+- [Week 1](#Week-1)
+	+ Welcome to SLU!
+	+ Four objects and restaurants
+	+ What is public health?
+- [Week 2](#Week-2)
+	+ Public health information communication
+	+ Public health information communication
+	+ Baseball
+	+ PSA
+	+ PSA
+- [Week 3](#Week-3)
+	+ PSA
+	+ PSA **presentation**
+	+ Introduction to research
+	+ TA presentations: Saad and Jacob
+	+ TA presentations: Torie and Miao
+- [Week 4](#Week-4)
+	+ Work on final project
+	+ Work on final project
+	+ Final project **Presentation**
+	+ Final project **Presentation**
+	+ Final lunch
 
 Week 1
 ===
 
-Wednesday, July 17, 2019  - Welcome to SLU!
+<a name="zzz"></a>Wednesday, July 17, 2019 - Welcome to SLU!
 ---
+
 1.	Introduce yourself. Try to answer the following questions:
   + Why did you decide to enroll in this class?
   + What do you want to learn from this class?
@@ -20,7 +46,7 @@ Wednesday, July 17, 2019  - Welcome to SLU!
 
 For tomorrow's class, please bring **4 items** that specifically represent **YOU**. It can be an object, a picture, a photo, a word, a concept, or anything else!
 
-Thursday, July 18, 2019 - Who am I?
+[Thursday, July 18, 2019 - Who am I?](#who-am-I)
 ---
 
 1. Present your objects: why do they represent you?
@@ -202,7 +228,7 @@ Thursday, August 1, 2019 - Conducting research (b)
 ---
 TA research presentation:
 
-1. Saad: [Neighborhood, law enforcement and sociodemographic correlates of perceived stress:pilot study in St. Louis, Missouri](/TA_presentations/Saad_Neighborhood_pressure.pptx)
+1. Saad: [Neighborhood, law enforcement and sociodemographic correlates of perceived stress: A pilot study in St. Louis, Missouri](/TA_presentations/Saad_Neighborhood_pressure.pptx)
 2. Jacob: [The Influence of Peer Mentoring on Working Alliances and the Psychological/Social Well-being of Incarcerated Adults](/TA_presentations/Jacob_Incarcerated_Adults.pptx)
 
 Friday, August 2, 2019 - Conducting research (c)
