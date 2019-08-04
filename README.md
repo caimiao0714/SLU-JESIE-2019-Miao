@@ -236,7 +236,9 @@ Friday, August 2, 2019 - Conducting research (c)
 TA research presentation:
 
 1. Torie: [Acceptance and Commitment Therapy (ACT) and Applied Behavior Analysis (ABA)](/TA_presentations/Victoria_ACT.pptx)
-2. Miao: [Does A Medical Consortium Influence Health Outcomes of Hospitalized Cancer Patients?An Integrated Care Model in Shanxi, China](/TA_presentations/Miao_Medical_Consortium.pptx)
+2. Miao: 
+	- Powerpoint: [Does A Medical Consortium Influence Health Outcomes of Hospitalized Cancer Patients?An Integrated Care Model in Shanxi, China](/TA_presentations/Miao_Medical_Consortium.pptx)
+	- Published paper: [Does A Medical Consortium Influence Health Outcomes of Hospitalized Cancer Patients?An Integrated Care Model in Shanxi, China](/TA_presentations/ijic-3588_cai.pdf)
 
 ***
 
