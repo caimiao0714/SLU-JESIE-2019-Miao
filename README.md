@@ -248,6 +248,13 @@ Monday, August 5, 2019 - Work on group projects (a)
 - Work on final presentations.
 - [冷吃杏鲍菇](https://www.youtube.com/watch?v=dNzX_WaGm1k)
 
+To be announced:
+
+- [ ] Everyone wins instead of choosing a winner
+- [ ] Send your favorite songs and pictures to me. We will make a video to display on final lunch
+- [ ] posters given to Jacob?
+
+
 Tuesday, August 6, 2019 - Work on group projects (b)
 ---
 
