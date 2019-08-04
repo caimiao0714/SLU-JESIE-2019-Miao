@@ -191,15 +191,26 @@ Wednesday, July 31, 2019 - Conducting research (a)
   5.	Is this a public health issue in China? Are there differences in different countries related to this issue?
   6.	What are future steps related to research and practice?
 
-- Preferably high prestigious journals to choose from: [NEJM](https://www.nejm.org/), [Lancet](https://www.thelancet.com/), [JAMA](https://jamanetwork.com/), [BMJ](https://www.bmj.com/), ...
+- Preferably high prestigious journals to choose from:
+
+  1. [NEJM](https://www.nejm.org/),
+  2. [Lancet](https://www.thelancet.com/),
+  3. [JAMA](https://jamanetwork.com/),
+  4. [BMJ](https://www.bmj.com/), ...
 
 Thursday, August 1, 2019 - Conducting research (b)
 ---
-TA research presentation: Anne, Saad
+TA research presentation:
+
+1. Saad: [Neighborhood, law enforcement and sociodemographic correlates of perceived stress:pilot study in St. Louis, Missouri](/TA_presentations/Saad_Neighborhood_pressure.pptx)
+2. Jacob: [The Influence of Peer Mentoring on Working Alliances and the Psychological/Social Well-being of Incarcerated Adults](/TA_presentations/Jacob_Incarcerated_Adults.pptx)
 
 Friday, August 2, 2019 - Conducting research (c)
 ---
-TA research presentation: Jacob, Miao, Torie
+TA research presentation:
+
+1. Torie: [Acceptance and Commitment Therapy (ACT) and Applied Behavior Analysis (ABA)](/TA_presentations/Victoria_ACT.pptx)
+2. Miao: [Does A Medical Consortium Influence Health Outcomes of Hospitalized Cancer Patients?An Integrated Care Model in Shanxi, China](/TA_presentations/Miao_Medical_Consortium.pptx)
 
 ***
 
@@ -207,13 +218,19 @@ Week 4
 ===
 Monday, August 5, 2019 - Work on group projects (a)
 ---
-[冷吃杏鲍菇](https://www.youtube.com/watch?v=dNzX_WaGm1k)?
+
+- Work on final presentations.
+- [冷吃杏鲍菇](https://www.youtube.com/watch?v=dNzX_WaGm1k)
 
 Tuesday, August 6, 2019 - Work on group projects (b)
 ---
 
+Work on final presentations.
+
 Wednesday, August 7, 2019 - Work on group projects (c)
 ---
+
+Presentations from our class.
 
 Thursday, August 8, 2019 - Group presentations
 ---
@@ -227,10 +244,10 @@ Presentation notes:
 
 Presentation rubric:
 
-| Presentation                                  | Points Possible | 
+| Presentation                                  | Points Possible |
 |-----------------------------------------------|-----------------|
-| Introduction to topic                         | 15              | 
-| Current research/journal article              | 25              | 
+| Introduction to topic                         | 15              |
+| Current research/journal article              | 25              |
 | Prevention strategies                         | 15              |
 | Public health issue in China                  | 20              |
 | Future steps related to research and practice | 15              |
